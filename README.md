@@ -4,4 +4,4 @@ this project is one script to change number version sdk for android the lib in r
 
 ## how to run 
 
-  - TODO
+  set the array with the list of paths of gradle config of libs
