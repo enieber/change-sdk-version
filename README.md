@@ -1,4 +1,4 @@
-# Change SDK version [Depracate]
+# Change SDK version [Deprecated]
 
 if you has muny version compileSdkVersion and buildToolsVersion you can use this in `android\build.gradle`
 
